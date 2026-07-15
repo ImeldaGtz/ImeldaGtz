@@ -1,16 +1,16 @@
-## Hi there 👋
+## About me
 
-<!--
-**ImeldaGtz/ImeldaGtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a Software Engineering student who does her best to become a Fullstack developer.  
+I'm currently learning Javascript, then I'll learn PHP.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond tech I love:
+1. Videogames
+2. Illustrating
+3. Music
+4. Crochet
+
+---
+### My most used languages
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ImeldaGtz&layout=compact&theme=dracula)
