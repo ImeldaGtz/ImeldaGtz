@@ -1,7 +1,7 @@
 ## About me
 
 Hi! I'm a Software Engineering student who does her best to become a Fullstack developer.  
-I'm currently learning Javascript, then I'll learn PHP.
+I'm currently learning PHP.
 
 ---
 
